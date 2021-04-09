@@ -1,2 +1,2 @@
 # Zuti-Responsive-Challenge
-kk
+Live page:https://josephomotosho.github.io/Zuti-Responsive-Challenge/
